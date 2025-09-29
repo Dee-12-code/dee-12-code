@@ -2,7 +2,10 @@
 
 Welcome to my GitHub profile! I'm a Software Engineer who turns ideas into real-world magic using code 💻✨  
 Whether it's crafting beautiful UIs or building functional backends, I'm always in my zone 😎
+🚀 Just dropped my personal portfolio website!
+This is where I’ll be showcasing all my projects as a Frontend / Full Stack Web Developer 👨🏾‍💻✨.
 
+Check it out 👉 oladejijohnson.com
 ---
 
 ### 🚀 What I Do
