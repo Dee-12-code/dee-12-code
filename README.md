@@ -36,9 +36,10 @@ Check it out 👉 oladejijohnson.com
 ---
 
 ### 📜 Certifications
-- ✅ Front End Development – Axia Africa & freeCodeCamp
+- ✅ Front End Development – Axia Africa (ACTD accredited)
 - ✅ JavaScript Algorithms & Data Structures
 - ✅ Responsive Web Design
+- Mobile Development - Axia Africa (ACTD accredited)
 
 ---
 
