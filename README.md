@@ -5,7 +5,7 @@ Whether it's crafting beautiful UIs or building functional backends, I'm always 
 🚀 Just dropped my personal portfolio website!
 This is where I’ll be showcasing all my projects as a Frontend / Full Stack Web Developer 👨🏾‍💻✨.
 
-Check it out 👉 oladejijohnson.com
+Check it out 👉 https://portfolio-oladeji-johnsons-projects.vercel.app
 ---
 
 ### 🚀 What I Do
@@ -61,7 +61,7 @@ Check it out 👉 oladejijohnson.com
 ---
 
 ### 🌍 Let’s Connect!
-- 🌐 [Portfolio](https://oladejijohnson.com)
+- 🌐 [Portfolio](https://portfolio-oladeji-johnsons-projects.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oladeji-johnson-137aa1332)
 - 🧠 [GitHub](https://github.com/dee-12-code)
 - 📸 [Instagram](https://www.instagram.com/oladeji506/)
